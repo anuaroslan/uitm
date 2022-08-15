@@ -182,7 +182,7 @@ var dd = {
     
     
   
-    {canvas: [ { type: 'line', x1: 0, y1: 170, x2: 515, y2: 170, lineWidth: 1, color: "#d3d3d3",  } ]},
+    {canvas: [ { type: 'line', x1: 0, y1: 120, x2: 762, y2: 120, lineWidth: 1, color: "#d3d3d3" } ]},
    ],
    defaultStyle: {},
   
@@ -217,4 +217,3 @@ var dd = {
     }
   }
 }
-
