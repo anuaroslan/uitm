@@ -1,6 +1,6 @@
 // playground requires you to assign document definition to a variable called dd
 
-var dd = {
+{var dd = {
       pageOrientation: 'landscape',
 
   header: {
@@ -216,4 +216,5 @@ var dd = {
       color: 'gray'
     }
   }
+}
 }
