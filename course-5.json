@@ -42,9 +42,9 @@ var dd = {
     
 	content: [
 	    
-   {canvas: [ { type: 'line', x1: 0, y1: 10, x2: 515, y2: 10, lineWidth: 1, color: "#d3d3d3" } ]},
+   {canvas: [ { type: 'line', x1: 0, y1: 10, x2: 762, y2: 10, lineWidth: 1, color: "#d3d3d3" } ]},
     {text: "Course Learning Outcomes - MOE Learning Outcomes - Soft Skills Learning Outcomes Relationship Matrix", fontSize: 10, bold: true, marginTop: 20},
-   {canvas: [ { type: 'line', x1: 0, y1: 10, x2: 515, y2: 10, lineWidth: 1, color: "#d3d3d3" } ]},
+   {canvas: [ { type: 'line', x1: 0, y1: 10, x2: 762, y2: 10, lineWidth: 1, color: "#d3d3d3" } ]},
 
     {
         columns: [
